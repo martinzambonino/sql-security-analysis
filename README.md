@@ -1,7 +1,7 @@
 # SQL Security Analysis
 
-![GitHub Actions Status](https://img.shields.io/github/actions/workflow/status/MartinZamboninoG/sql-security-analysis/ci.yml?branch=main)
-![License](https://img.shields.io/github/license/MartinZamboninoG/sql-security-analysis)
+![GitHub Actions Status](https://img.shields.io/github/actions/workflow/status/martinzambonino/sql-security-analysis/ci.yml?branch=main)
+![License](https://img.shields.io/github/license/martinzambonino/sql-security-analysis)
 
 ## What It Does
 
@@ -25,7 +25,7 @@ A project focused on leveraging SQL for cybersecurity-oriented data analysis in 
 
 ```bash
 # Clone the repository
-git clone https://github.com/MartinZamboninoG/sql-security-analysis.git
+git clone https://github.com/martinzambonino/sql-security-analysis.git
 cd sql-security-analysis
 
 # Option A: Use SQLite with synthetic data
